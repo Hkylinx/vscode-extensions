@@ -1,0 +1,26 @@
+{
+    "name": "my-horizon",
+    "displayName": "my-horizon",
+    "description": "my-horizon",
+    "version": "0.0.1",
+    "publisher": "HKylin",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hkylinx"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "My Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/My Horizon-color-theme.json"
+            }
+        ]
+    }
+}
