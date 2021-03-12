@@ -1,6 +1,3 @@
-
----
-
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
@@ -15,6 +12,7 @@
     <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/jolaleye.horizon-theme-vscode.svg?maxAge=86400&style=for-the-badge&labelColor=1C1E26&color=F7B3A1">
   </a>
 </p>
+
 
 
 
@@ -99,4 +97,4 @@ Always be sure to follow the [Code of Conduct](https://github.com/jolaleye/horiz
 
 ## License
 
-[MIT](https://github.com/jolaleye/horizon-theme-vscode/blob/master/LICENSE) © [Hkylin](https://github.com/HKylinx)
+[MIT](https://github.com/Hkylinx/vscode-extensions/blob/main/my-horizon/LICENSE) © [Hkylin](https://github.com/HKylinx)
